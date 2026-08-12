@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/Jaffa99/jaffa-prun.github.io/sitemap.xml
+Sitemap: https://jaffa-prun.github.io/sitemap.xml
