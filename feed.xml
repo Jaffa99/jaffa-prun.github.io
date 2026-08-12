@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaffa的Prun网站</title>
-    <link>https://jaffa99.github.io/</link>
+    <link>https://github.com/Jaffa99/jaffa-prun.github.io/</link>
     <description>这里是 Jaffa 的《Prosperous Universe》个人攻略站。我会把玩下来的心得、各种数据、好用的小技巧都整理在这里，希望能帮到刚起步的探索者。希望新老玩家常来逛逛，一起交流。</description>
     <language>zh-cn</language>
     <generator>Gridea Pro</generator>
     <lastBuildDate>Wed, 12 Aug 2026 22:44:36 +0800</lastBuildDate>
-    <atom:link href="https://jaffa99.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://github.com/Jaffa99/jaffa-prun.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <item>
       <title>关于Prosperous Universe</title>
-      <link>https://jaffa99.github.io/post/guan-yu-prosperous-universe/</link>
-      <guid isPermaLink="true">https://jaffa99.github.io/post/guan-yu-prosperous-universe/</guid>
+      <link>https://github.com/Jaffa99/jaffa-prun.github.io/post/guan-yu-prosperous-universe/</link>
+      <guid isPermaLink="true">https://github.com/Jaffa99/jaffa-prun.github.io/post/guan-yu-prosperous-universe/</guid>
       <pubDate>Thu, 13 Aug 2026 12:17:42 +0800</pubDate>
-      <description><![CDATA[<p><img src="https://jaffa99.github.io/post-images/1786541634382728500_0.png" alt="" /><br />
+      <description><![CDATA[<p><img src="https://github.com/Jaffa99/jaffa-prun.github.io/post-images/1786541634382728500_0.png" alt="" /><br />
 在《繁荣宇宙》中，你是一家星际公司的CEO。探索星系、设计飞船、缔结联盟，但最核心的只有一件事：生产、贸易、运输，然后盈利。</p>
 <p>你的一切商业活动都在一套名为 APEX 的高度可定制网页界面中完成，只需一台电脑和浏览器即可随时管理你的星际帝国。数千名玩家共享同一个持续演化的宇宙，共同构建一个完全由玩家驱动的&hellip;</p>
 ]]></description>
       <category>游戏介绍</category>
       <category>入门</category>
       <category>新人推荐</category>
-      <enclosure url="https://jaffa99.github.io/post-images/guan-yu-prosperous-universe.png" length="0" type="image/png"></enclosure>
+      <enclosure url="https://github.com/Jaffa99/jaffa-prun.github.io/post-images/guan-yu-prosperous-universe.png" length="0" type="image/png"></enclosure>
     </item>
   </channel>
 </rss>
